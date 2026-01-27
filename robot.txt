@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prof-ronny.github.io/flutter-aplicado/sitemap.xml

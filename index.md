@@ -4,7 +4,6 @@ description: Conteúdo técnico em português sobre Flutter e Dart, com foco em 
 keywords: flutter, dart, flutter em português, desenvolvimento multiplataforma, desenvolvimento mobile
 ---
 
-# Flutter Aplicado
 
 Flutter é uma das principais tecnologias atuais para o desenvolvimento de
 aplicativos **multiplataforma**, permitindo criar aplicações para

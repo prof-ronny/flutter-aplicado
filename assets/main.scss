@@ -56,6 +56,28 @@
   display: block;
 }
 
+.header-inner {
+  display: flex;
+  align-items: center;       /* alinhamento vertical */
+  justify-content: space-between;
+  min-height: 64px;
+}
+
+.site-title {
+  font-size: 26px;
+  font-weight: 300;
+  color: #424242;
+  white-space: nowrap;
+  margin-right: 32px;        /* espaço entre título e menu */
+}
+
+/* Menu principal */
+.main-nav .menu {
+  display: flex;
+  align-items: center;       /* alinha menu verticalmente */
+  gap: 20px;
+}
+
 /* Mobile */
 @media (max-width: 768px) {
   .main-nav .menu {
@@ -67,5 +89,20 @@
     position: static;
     border: none;
     padding-left: 12px;
+  }
+
+   .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-title {
+    margin-bottom: 12px;
+  }
+
+  .main-nav .menu {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
   }
 }

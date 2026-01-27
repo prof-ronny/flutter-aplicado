@@ -1,5 +1,16 @@
 title: Flutter Aplicado
-description: Livro técnico em português sobre desenvolvimento de aplicativos com Flutter
+description: Conteúdo técnico em português sobre Flutter, Dart e Material Design 3.
+lang: pt-BR
 theme: minima
+
 plugins:
   - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - livro.md
+  - sumario.md
+  - projetos.md
+  - flutter/index.md
+  - sobre.md
+

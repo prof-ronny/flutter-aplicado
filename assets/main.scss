@@ -19,6 +19,8 @@
   text-decoration: none;
   color: #333;
   font-weight: 500;
+  line-height: 1.2;
+  font-size: 18px;
 }
 
 /* Submenu */
@@ -62,10 +64,11 @@
 }
 
 .site-title {
-  font-size: 26px;
+  font-size: 18px;
   font-weight: 300;
   color: #424242;
   white-space: nowrap;
+  line-height: 1.2;
   margin-right: 32px;        /* espaço entre título e menu */
 }
 

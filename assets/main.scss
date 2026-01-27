@@ -6,10 +6,8 @@
 /* ===== MENU CUSTOMIZADO ===== */
 
 .main-nav .menu {
-  list-style: none;
-  margin: 0;
-  padding: 0;
   display: flex;
+  align-items: center;       /* alinha menu verticalmente */
   gap: 20px;
 }
 
@@ -72,16 +70,13 @@
 }
 
 /* Menu principal */
-.main-nav .menu {
-  display: flex;
-  align-items: center;       /* alinha menu verticalmente */
-  gap: 20px;
-}
+
 
 /* Mobile */
 @media (max-width: 768px) {
   .main-nav .menu {
     flex-direction: column;
+    align-items: flex-start;
     gap: 10px;
   }
 
@@ -100,9 +95,5 @@
     margin-bottom: 12px;
   }
 
-  .main-nav .menu {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
-  }
+
 }

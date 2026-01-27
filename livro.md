@@ -60,6 +60,9 @@ Flutter moderno, incluindo:
 O conteúdo é apresentado de forma incremental, respeitando o processo de
 aprendizado do leitor.
 
+- [Sumário Resumido](sumario.md)
+
+
 ---
 
 ## Projetos práticos

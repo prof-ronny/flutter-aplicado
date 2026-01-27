@@ -1,6 +1,7 @@
 ---
 title: Flutter Aplicado – Desenvolvimento de Aplicativos Multiplataforma
-description: Conteúdo técnico em português sobre Flutter, Dart e Material 3, com foco em ensino, projetos práticos e desenvolvimento multiplataforma.
+description: Conteúdo técnico em português sobre Flutter, Dart e Material Design 3.
+keywords: flutter, dart, livro flutter, flutter em português, desenvolvimento mobile, material 3
 ---
 
 # Flutter Aplicado
@@ -70,8 +71,10 @@ O objetivo do livro é **ensinar Flutter de forma progressiva**, conectando
 conceitos teóricos com prática real.
 
 👉 **Página do livro:**  
-- Clube de Autores: https://clubedeautores.com.br/livro/flutter-aplicado  
-- Amazon Kindle: https://www.amazon.com.br/dp/B0GGXB9R42  
+- [Clube de Autores – Versão impressa](https://clubedeautores.com.br/livro/flutter-aplicado)
+
+- [Amazon Kindle – Versão digital](https://www.amazon.com.br/dp/B0GGXB9R42)
+
 
 ---
 

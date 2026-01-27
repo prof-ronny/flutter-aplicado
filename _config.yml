@@ -1,3 +1,5 @@
 title: Flutter Aplicado
 description: Livro técnico em português sobre desenvolvimento de aplicativos com Flutter
 theme: minima
+plugins:
+  - jekyll-seo-tag

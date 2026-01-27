@@ -4,7 +4,6 @@ description: Sumário oficial do livro Flutter Aplicado, com capítulos e subcap
 lang: pt-BR
 ---
 
-# Sumário do livro Flutter Aplicado
 
 ## Prefácio
 

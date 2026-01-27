@@ -4,27 +4,20 @@
 - title: Livro
   url: /livro.html
 
-- title: Sumário
-  url: /sumario.html
+- title: Flutter
+  url: /flutter/
+  children:
+    - title: O que é Flutter
+      url: /flutter/o-que-e-flutter.html
+    - title: Material Design 3
+      url: /flutter/material-3.html
+    - title: Gerência de Estado
+      url: /flutter/gerencia-de-estado.html
+    - title: Navegação
+      url: /flutter/navegacao.html
 
 - title: Projetos
   url: /projetos.html
 
 - title: Sobre
   url: /sobre.html
-
-- title: Flutter
-  url: /flutter/
-
-  children:
-    - title: O que é Flutter
-      url: /flutter/o-que-e-flutter.html
-
-    - title: Material 3
-      url: /flutter/material-3.html
-
-    - title: Gerência de Estado
-      url: /flutter/gerencia-de-estado.html
-
-    - title: Navegação
-      url: /flutter/navegacao.html

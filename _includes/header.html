@@ -1,6 +1,27 @@
-<header class="site-header" role="banner">
-  <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
-    {% include nav.html %}
+<header class="site-header">
+  <div class="wrapper site-header-inner">
+    <a class="site-title" href="{{ "/" | relative_url }}">
+      {{ site.title }}
+    </a>
+
+    <nav class="main-nav">
+      <ul class="menu">
+        {% for item in site.data.navigation %}
+          <li class="menu-item {% if item.children %}has-submenu{% endif %}">
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+
+            {% if item.children %}
+              <ul class="submenu">
+                {% for child in item.children %}
+                  <li>
+                    <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
   </div>
 </header>

@@ -1,0 +1,35 @@
+---
+---
+
+@import "minima";
+
+/* Ajuste do menu de navegação */
+.site-nav {
+  display: flex;
+  align-items: center;
+}
+
+.site-nav .page-link {
+  display: inline-block;
+  margin-left: 16px;
+  white-space: nowrap;
+}
+
+/* Remove empilhamento estranho */
+.site-nav .trigger {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+/* Em telas pequenas, mantém menu organizado */
+@media screen and (max-width: 600px) {
+  .site-nav .trigger {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-nav .page-link {
+    margin: 8px 0;
+  }
+}

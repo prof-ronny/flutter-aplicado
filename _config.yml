@@ -1,11 +1,13 @@
 title: Flutter Aplicado
 description: Conteúdo técnico em português sobre Flutter, Dart e Material Design 3.
 lang: pt-BR
+
+url: https://prof-ronny.github.io
+baseurl: /flutter-aplicado
+
 theme: minima
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-
-

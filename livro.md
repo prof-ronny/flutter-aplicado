@@ -16,6 +16,14 @@ O livro conecta fundamentos teóricos com aplicação prática, permitindo que o
 entenda não apenas *como* usar o Flutter, mas *por que* determinadas decisões de
 arquitetura e design são adotadas.
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/capa-flutter-aplicado.jpg' | relative_url }}"
+    alt="Capa do livro Flutter Aplicado"
+    style="max-width: 320px; width: 100%; height: auto;"
+  >
+</p>
+
 ---
 
 ## Qual é a proposta do livro?

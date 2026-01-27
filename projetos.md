@@ -5,7 +5,6 @@ keywords: projetos flutter, livro flutter, flutter aplicado, exemplos flutter, p
 lang: pt-BR
 ---
 
-# Projetos do livro Flutter Aplicado
 
 O livro Flutter Aplicado inclui projetos práticos distribuídos ao longo dos capítulos. Esta página lista esses projetos para facilitar a navegação e dar uma visão geral do que é construído no livro.
 

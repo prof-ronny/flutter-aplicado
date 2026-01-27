@@ -5,7 +5,6 @@ keywords: autor flutter, professor flutter, livro flutter aplicado
 lang: pt-BR
 ---
 
-# Sobre
 
 Este site é o material complementar do livro **Flutter Aplicado – Desenvolvimento Multiplataforma Profissional**, criado com o objetivo de apoiar estudantes, professores e desenvolvedores interessados em aprender Flutter de forma estruturada e prática.
 

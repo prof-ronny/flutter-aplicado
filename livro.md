@@ -5,7 +5,6 @@ author: Carlos Ronny de Sousa
 lang: pt-BR
 ---
 
-# Livro Flutter Aplicado
 
 **Flutter Aplicado** é um livro técnico em português voltado ao ensino do
 desenvolvimento de aplicativos multiplataforma utilizando **Flutter** e **Dart**.

@@ -59,6 +59,13 @@ e projetos práticos que complementam os artigos publicados aqui.
 
 
 👉 **Página do livro:**  
+<p align="center">
+  <img
+    src="{{ '/assets/images/capa-flutter-aplicado.jpg' | relative_url }}"
+    alt="Capa do livro Flutter Aplicado"
+    style="max-width: 320px; width: 100%; height: auto; align:center"
+  >
+</p>
 
 👉 Saiba mais na página do  
 [Livro Flutter Aplicado](livro.md)

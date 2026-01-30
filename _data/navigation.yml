@@ -5,9 +5,9 @@
   url: /livro.html
   children:
     - title: Livro
-      url: /livro
+      url: /livro.html
     - title: Sumário
-      url: /livro/sumario.html
+      url: /sumario.html
 
 - title: Flutter
   url: /flutter/

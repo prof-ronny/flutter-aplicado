@@ -87,3 +87,10 @@ Após compreender o que é o Flutter, os próximos temas abordados incluem:
 - gerência de estado
 
 Esses tópicos são explorados de forma prática ao longo do livro e dos conteúdos complementares deste site.
+
+
+## Links úteis
+
+- Página do livro: [Livro Flutter Aplicado](livro.md)
+- Sumário do livro: [Sumário](sumario.md)
+- Artigos técnicos: [Artigos sobre Flutter](flutter/index.md)

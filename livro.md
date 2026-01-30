@@ -127,3 +127,9 @@ de ensino de programação e desenvolvimento de aplicações multiplataforma.
 Possui experiência com Flutter, Dart, React Native, Kotlin, Node.js e sistemas
 embarcados, atuando na criação de materiais didáticos e projetos educacionais
 voltados à formação técnica e superior em TI.
+
+## Links úteis
+
+- Página do livro: [Livro Flutter Aplicado](livro.md)
+- Sumário do livro: [Sumário](sumario.md)
+- Artigos técnicos: [Artigos sobre Flutter](flutter/index.md)

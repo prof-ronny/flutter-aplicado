@@ -101,3 +101,9 @@ Após entender os conceitos de navegação, o estudo avança naturalmente para:
 - integração entre navegação e lógica de negócio
 
 Esses temas são explorados nos capítulos seguintes do livro.
+
+## Links úteis
+
+- Página do livro: [Livro Flutter Aplicado](livro.md)
+- Sumário do livro: [Sumário](sumario.md)
+- Artigos técnicos: [Artigos sobre Flutter](flutter/index.md)

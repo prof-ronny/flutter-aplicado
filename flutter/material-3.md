@@ -104,3 +104,10 @@ Após compreender o Material Design 3, o estudo avança para temas como:
 - gerência de estado integrada à interface
 
 Esses tópicos aprofundam o uso do Material 3 dentro de aplicações Flutter completas.
+
+
+## Links úteis
+
+- Página do livro: [Livro Flutter Aplicado](livro.md)
+- Sumário do livro: [Sumário](sumario.md)
+- Artigos técnicos: [Artigos sobre Flutter](flutter/index.md)

@@ -118,3 +118,9 @@ Após entender gerência de estado, os próximos tópicos abordam:
 - organização de aplicações maiores
 
 Esses conceitos ampliam o uso da gerência de estado em projetos mais completos.
+
+## Links úteis
+
+- Página do livro: [Livro Flutter Aplicado](livro.md)
+- Sumário do livro: [Sumário](sumario.md)
+- Artigos técnicos: [Artigos sobre Flutter](flutter/index.md)
